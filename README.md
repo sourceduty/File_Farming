@@ -108,6 +108,8 @@ To contribute to the validation of new scientific subjects, one typically needs 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
+<br>
+[Programmable Evolution](https://github.com/sourceduty/Programmable_Evolution)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
