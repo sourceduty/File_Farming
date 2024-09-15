@@ -38,6 +38,8 @@ Overall, the File Farming framework provides a dynamic and flexible approach to 
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[New Science Subject](https://github.com/sourceduty/New_Science_Subject)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
