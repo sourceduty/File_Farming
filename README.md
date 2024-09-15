@@ -68,6 +68,24 @@ In a file farming model, harvesting multiple files from a single field involves 
 Expanding this concept to multiple fields allows farmers to grow files in distinct environments with specialized strategies for each. Each field can focus on a different type of file or project, enabling the user to compartmentalize various content streams. For instance, one field might be dedicated to multimedia files, while another is cultivated for documents, spreadsheets, or code files. Having multiple fields provides greater flexibility and allows farmers to apply unique methods, inputs, and rules to each field as needed. This model is highly scalable, as new fields can be added or modified over time depending on the project’s needs. By utilizing multiple fields, users can manage complex projects more effectively, ensuring that all files grow in a controlled, optimized environment tailored to their specific requirements.
 
 #
+### Harvesting Throughput Calculation
+
+This formula calculates the total number of files that can be harvested in a given time period by accounting for the various time components involved in the file farming process. It considers two key phases: the time taken for file growth and processing, as well as the time required to harvest the files. The total cycle time (denoted as T_cycle) is the sum of the growth interval and processing time per file, multiplied by the number of growth iterations, plus the harvesting time per file multiplied by the total number of files. To determine the total files harvested in the specified time period, the formula divides the total time by the cycle time and multiplies this result by the number of files processed per cycle. This method provides a comprehensive way to calculate the harvesting capacity of a file farming system over a set period.
+
+<br>
+
+```
+T_cycle = ((Growth Interval + Processing Time per File) × Number of Growth Iterations)
+         + (Harvest Time per File × Number of Files)
+
+Substituting T_cycle back into the main formula:
+
+Total Files in 24 Hours = Time Period / ((Growth Interval + Processing Time per File) × Number of Growth Iterations
+                      + Harvest Time per File × Number of Files)
+                      × Number of Files per Cycle
+```
+
+#
 ### Farm Talk
 
 The terminology of "file farming" draws heavily on analogies to real farming, allowing users to easily conceptualize the growth and management of digital files by likening them to crops or livestock. In real farming, farmers nurture crops through planting, cultivating, and harvesting, while file farming involves starting with minimal digital files and nurturing them into fully developed resources through ongoing input and refinement. Both forms of farming emphasize growth over time, careful resource management, and strategic planning to maximize yield—whether that yield is crops in the field or well-structured, complex digital documents.
