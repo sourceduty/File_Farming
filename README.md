@@ -130,6 +130,8 @@ To contribute to the validation of new scientific subjects, one typically needs 
 [Programmable Evolution](https://github.com/sourceduty/Programmable_Evolution)
 <br>
 [Custom Python GPTs](https://github.com/sourceduty/Custom_Python_GPTs)
+<br>
+[Python Machine](https://github.com/sourceduty/Python_Machine)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
