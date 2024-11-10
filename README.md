@@ -137,7 +137,7 @@ Enhance the simulation by incorporating mechanisms to test profitability under v
 
 #
 
-> Alex: "*File farming is a theoretical programming concept model.*"
+> Alex: "*File farming is a theoretical programming framework concept.*"
 
 #
 
