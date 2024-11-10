@@ -139,6 +139,8 @@ Enhance the simulation by incorporating mechanisms to test profitability under v
 
 > Alex: "*File farming is a theoretical programming framework concept.*"
 
+> "*A file farm could by profitable but I don't know for sure.*"
+
 #
 
 ![Farming](https://github.com/user-attachments/assets/51338fd6-a3cc-4ed6-af04-ffd784ea9f2e)
