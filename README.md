@@ -48,7 +48,7 @@ The theory behind the File Farm concept is rooted in principles from computation
 #
 ### File Farming Framework
 
-![File Farmer](https://github.com/user-attachments/assets/5c31dd92-0c90-4eaf-afec-5000630ed2f1)
+![Filefarm](https://github.com/user-attachments/assets/3dc568fd-d1ea-4434-beca-af0f86818dba)
 
 File Farming is an innovative concept that revolves around the idea of utilizing digital files that “grow” in a virtual file farm environment. Much like traditional farming, this process begins with a blank or minimal file, which is then expanded and enriched over time, growing with content and complexity. The files start as simple, empty digital containers, but with strategic inputs and proper cultivation, they evolve into fully developed, comprehensive documents or digital assets. This process allows for structured, scalable growth of digital resources within an organized framework, optimizing content generation and file management.
 
