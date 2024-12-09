@@ -167,5 +167,8 @@ File farming integrates seamlessly into cluster computing, providing a structure
 <br>
 [Python Machine](https://github.com/sourceduty/Python_Machine)
 
+#
+![Theoretical](https://github.com/user-attachments/assets/3770ddb5-3cb6-4ba7-9bd0-95b3784cc640)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
